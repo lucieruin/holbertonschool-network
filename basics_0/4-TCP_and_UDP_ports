@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Use netstat to get a list of listening ports and their associated PIDs
+
+netstat
