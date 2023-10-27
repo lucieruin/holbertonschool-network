@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#pings an IP address
+# ping an IP adress
 
 if [ $# -ne 1 ]
 then
